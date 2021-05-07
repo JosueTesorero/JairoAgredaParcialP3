@@ -1,0 +1,166 @@
+
+ @font-face {
+        font-family: 'Flash Rogers Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Flash Rogers Regular'), url('flashrogers.woff') format('woff');
+ }
+
+
+@font-face {
+    font-family: 'Flash Rogers Halftone Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Flash Rogers Halftone Regular'), url('flashrogershalf.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Flash Rogers 3D Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Flash Rogers 3D Regular'), url('flashrogers3d.woff') format('woff');
+}
+    
+
+
+body{
+    background-color: #C00127;
+}
+
+
+
+
+ h1 {
+    font-family: 'Flash Rogers Regular', sans-serif;
+    font-weight: 700;
+    font-size: 6.5rem;
+    text-align: center;
+    line-height: 1.5;
+    padding-top: 8rem;
+}
+
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+i{
+color: #CEA634;
+}
+
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 1000;
+    font-size: 1.5rem;
+    text-align: center;
+    
+}
+h4 {
+    font-family: 'Flash Rogers Regular', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #CEA634;
+}
+h5 {
+    font-family: 'Flash Rogers Regular', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #C00127;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+color: #fff;
+text-align: center;
+}
+
+#part2 {
+    padding: 7% 15%;
+    
+   }
+
+#part3 {
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+   
+#Principal{
+    background-color: #C00127;
+    color: #fff;
+}
+.title-image{
+    display:block;
+    margin:auto;
+    width: 80%;
+}
+
+.card {
+    background-color:  #C00127;
+    
+    }
+    
+.social-icon{
+        margin: 20px 10px;
+        color: #CEA634;
+}   
+    
+ 
+.descripcion{
+    text-align: center;
+    padding: 3%;
+}   
+
+.navbar-brand{
+    font-family: 'Flash Rogers 3D Regular', sans-serif;
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Flash Rogers 3D Regular', sans-serif;
+    font-style: italic;
+    font-weight: 100;
+
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+   
+
+.btn{
+    background-color: #CEA634;
+}
+
+.icon{
+    color: #C00127 ;
+    margin-bottom: rem;
+}
+   
+.icon:hover {
+    color: #CEA634;
+}
+   
